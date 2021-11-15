@@ -1,0 +1,65 @@
+.row{
+    display:flex;
+    border: solid black 1px;
+    margin-left: 70px;
+    margin-right: 70px;
+    margin-top: 40px;
+    padding-bottom: 20px;
+}
+
+.column{
+    width: 50%;
+    margin-left: 40px;
+    color: brown ;
+    padding-right: 50px;
+}
+
+#submit{
+    width: 90%;
+    padding-right: 200px;
+    
+}
+
+.form{
+    padding: 50px;
+}
+
+.paragraph{
+    margin-left: 70px;
+}
+
+#em{
+    margin-left: 30px;
+}
+
+#ag{
+    margin-left: 40px;
+}
+
+#pa{
+    margin-left: 5px;
+}
+
+#la{
+    margin-left: 50px;
+}
+
+#ph{
+    margin-left: 80px;
+}
+
+#un{
+    margin-left: 55px;
+}
+
+#myForm{
+    padding-right: 150px;
+}
+
+input{
+    width: 70%;
+}
+
+button, sq{
+    text-align: center;
+}
